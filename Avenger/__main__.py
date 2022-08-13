@@ -76,7 +76,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                text="🖱️ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ 🖱️", callback_data="bot_commands"
+                text="🖱️ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅꜱ ʙᴀʙʏ 🖱️", callback_data="bot_commands"
             ),
         ],
         [
@@ -86,7 +86,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="🖱️ ꜱᴏᴜʀᴄᴇ 🖱️",
-                url="https://github.com/TeamAvengerBot/AvengerBot",
+                url="https://github.com/?",
             ),
         ],
         [
@@ -99,9 +99,9 @@ home_keyboard_pm = InlineKeyboardMarkup(
 )
 
 home_text_pm = (
-    f"Hey there! My name is {BOT_NAME}. I can manage your "
+    f"Hey ʙᴀʙʏ! My name is {BOT_NAME}. I can manage your "
     + "group with lots of useful features, feel free to "
-    + "add me to your group."
+    + "ᴀᴅᴅ ᴍᴇ ɪɴ ɢʀᴏᴜᴘ ʙᴀʙʏ."
 )
 
 
@@ -114,7 +114,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="https://github.com/TeamAvengerBot/AvengerBot",
+                url="https://github.com/?",
             ),
         ],
         [
