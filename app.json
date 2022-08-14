@@ -75,7 +75,7 @@
         },
 	"UPSTREAM_REPO":{
 		"description": "Do not change it otherwise bot will never works",
-		"value": "https://github.com/TeamAvengerBot/AvengerBot.git",
+		"value": "https://github.com/Terabaapxd/AvengerBot.git",
                 "required":true
 	}
     }
