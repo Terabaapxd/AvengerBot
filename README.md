@@ -38,7 +38,7 @@
 </h2>
 
 ```console
-git clone https://github.com/TeamAvengerBot/AvengerBot
+git clone https://github.com/Terabaapxd/AvengerBot
 cd AvengerBot
 pip3 install -U -r requirements.txt
 cp sample_config.env config.env
