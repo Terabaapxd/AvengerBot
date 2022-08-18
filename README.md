@@ -14,7 +14,7 @@
 <a href="https://github.com/TeamAvengerBot/AvengerBot/commits/mukesh"><img src="https://img.shields.io/github/last-commit/TeamAvengerBot/AvengerBot?style=social&logo=github" />
 <a href="https://github.com/TeamAvengerBot/AvengerBot/issues"><img src="https://img.shields.io/github/issues/Terabaapxd/AvengerBot?style=social&logo=github" />
 <a href="https://app.codacy.com/project/badge/Grade/33ac0deeb7b14a028cf6bd574999abeb"><img src="https://img.shields.io/codacy/grade/33ac0deeb7b14a028cf6bd574999abeb?color=gold&logo=github&style=social" />
-<a href="https://github.com/TeamAvengerBot/AvengerBot/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social&logo=github" />
+<a href="https://github.com/Terabaapxd/AvengerBot/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=social&logo=github" />
 <a href="https://gitHub.com/TeamAvengerBot/AvengerBot/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained-yes-green.svg?style=social&logo=github" />
 </p>
 
